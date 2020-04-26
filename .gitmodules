@@ -1,0 +1,3 @@
+[submodule "practice__udemy-nuxtjs--hello"]
+	path = practice__udemy-nuxtjs--hello
+	url = git@github.com:hibriiiiidge/practice__udemy-nuxtjs--hello.git
